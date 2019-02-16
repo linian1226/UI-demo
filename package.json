@@ -21,5 +21,8 @@
   "homepage": "https://github.com/linian1226/UI-demo#readme",
   "dependencies": {
     "vue": "^2.6.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
   }
 }
